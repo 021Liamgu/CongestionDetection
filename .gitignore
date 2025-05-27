@@ -1,0 +1,16 @@
+# Data files
+data/metr_la/*.csv
+data/metr_la/*.h5
+data/pems_bay/*.h5
+
+# System files
+.DS_Store
+data/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Git LFS
+.gitattributes 
